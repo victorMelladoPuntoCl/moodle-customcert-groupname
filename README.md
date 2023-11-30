@@ -3,7 +3,7 @@ Customcert Group Element
 
 ## Installation
 
-upload the *groupname* to mod/customcert/
+upload the *groupname* to mod/customcert/element/
 
 ...and that's all, the element will appear.
 
